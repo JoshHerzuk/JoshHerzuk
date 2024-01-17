@@ -4,7 +4,7 @@
 
 - <b>Linux Sys Admin </b>
   - [Implementing High Availability with HAProxy](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Automating LAMP Stack Install with Ansible](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Automating LAMP Stack Install with Ansible](https://github.com/JoshHerzuk/Ansible-Lab/tree/main)
 
 
 <h2>🎖️ Certifications and Badges</h2>
