@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Technician Projects:</h2>
 
 - <b>Linux Sys Admin </b>
-  - [Implementing High Availability with HAProxy](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Implementing High Availability with HAProxy](https://github.com/JoshHerzuk/HaProxy/tree/main)
   - [Automating LAMP Stack Install with Ansible](https://github.com/JoshHerzuk/Ansible-Lab/tree/main)
 
 
